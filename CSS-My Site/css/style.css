@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    background-color:rgb(202, 234, 223);
+}
+.topmost{
+    display: inline;
+    padding:0%,30% 5px 20% ;
+    background-color:#ffebcc;
+}
+.topmost span{
+    display: inline;
+    float: right;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: green;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+}
+.toplower{
+    padding: 10% 25% 0px 40% ;
+}
+.toplower img{
+    padding: 20px ;
+}
+
+.top{
+    padding: 2% 25% 10px 40% ;
+    background-color:rgb(202, 234, 223);
+    
+}
+
+.element{
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 0px;
+    color: green;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    
+}
+.hover:hover{
+    color:burlywood
+}
+.span{
+    font-style:inherit;
+}
+
+.thumbnail:hover { 
+    transform: scale(2); 
+}
